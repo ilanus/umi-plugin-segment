@@ -6,7 +6,7 @@ Umi plugin to support segment
 
 ### install
 
-`yarn add umi-plugin-segment`
+`yarn add --dev umi-plugin-segment`
 
 ### config
 

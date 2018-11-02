@@ -1,6 +1,6 @@
 {
   "name": "umi-plugin-segment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Segment for umi",
   "main": "index.js",
   "scripts": {
