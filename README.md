@@ -20,7 +20,6 @@ export default {
       'umi-plugin-segment',
       {
         key: 'segment key',
-        judge: ()=>true // true or false
       },
     ],
   ],
