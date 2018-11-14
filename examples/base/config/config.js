@@ -3,7 +3,8 @@ export default {
     [
       "../../index.js",
       {
-        key: "123",
+        code: "123",
+        judge: () => process.env.NODE_ENV !== "production"
       }
     ]
   ],
