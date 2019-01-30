@@ -1,7 +1,4 @@
 export default (api, opts) => {
-  if (process.env.NODE_ENV !== "production") {
-    return false;
-  }
   if (opts.judge && !opts.judge()) {
     return false;
   }
